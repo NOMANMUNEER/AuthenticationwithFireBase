@@ -22,7 +22,7 @@ It's highly recommended to add screenshots of your app here. Take screenshots of
 
 | Login Screen                                       | Sign-Up Screen                                         | Home Screen                                      |
 | :------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------: |
-| ![Login Screen](https://github.com/NOMANMUNEER/AuthenticationwithFireBase/blob/main/Login.png?raw=true) | ![Sign Up Screen](URL_TO_YOUR_SIGNUP_SCREENSHOT.png) | ![Home Screen](URL_TO_YOUR_HOME_SCREENSHOT.png) |
+| ![Login Screen](https://github.com/NOMANMUNEER/AuthenticationwithFireBase/blob/main/Login.png?raw=true) | ![Sign Up Screen]([URL_TO_YOUR_SIGNUP_SCREENSHOT.png](https://github.com/NOMANMUNEER/AuthenticationwithFireBase/blob/main/CA.png)) | ![Home Screen](URL_TO_YOUR_HOME_SCREENSHOT.png) |
 
 ***
 
