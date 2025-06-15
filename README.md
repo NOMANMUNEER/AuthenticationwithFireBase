@@ -52,7 +52,7 @@ This project **will not run** out of the box until you connect it to your own Fi
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/NOMANMUNEER/AuthenticationwithFireBase.git](https://github.com/your-username/AuthenticationwithFireBase.git)
+    git clone [https://github.com/NOMANMUNEER/AuthenticationwithFireBase.git](https://github.com/NOMANMUNEER/AuthenticationwithFireBase.git)
     ```
 
 2.  **Open in Android Studio:**
